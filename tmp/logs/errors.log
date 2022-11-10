@@ -1,0 +1,46 @@
+[2022-11-10 17:45:11] Текст ошибки: Array to string conversion | Файл: /app/vendor/wfm/Router.php | Строка: 57 
+=============
+[2022-11-10 17:45:20] Текст ошибки: Array to string conversion | Файл: /app/vendor/wfm/Router.php | Строка: 58 
+=============
+[2022-11-10 18:10:31] Текст ошибки: Controller app\controllers\MainController is not found | Файл: /app/vendor/wfm/Router.php | Строка: 38 
+=============
+[2022-11-10 18:11:00] Текст ошибки: Controller app\controllers\MainController is not found | Файл: /app/vendor/wfm/Router.php | Строка: 38 
+=============
+[2022-11-10 18:14:32] Текст ошибки: Controller app\controllers\MainController is not found | Файл: /app/vendor/wfm/Router.php | Строка: 45 
+=============
+[2022-11-10 18:15:40] Текст ошибки: Controller app\controllers\MainController is not found | Файл: /app/vendor/wfm/Router.php | Строка: 45 
+=============
+[2022-11-10 18:15:40] Текст ошибки: Controller app\controllers\MainController is not found | Файл: /app/vendor/wfm/Router.php | Строка: 45 
+=============
+[2022-11-10 18:15:40] Текст ошибки: Controller app\controllers\MainController is not found | Файл: /app/vendor/wfm/Router.php | Строка: 45 
+=============
+[2022-11-10 18:15:42] Текст ошибки: Controller app\controllers\MainController is not found | Файл: /app/vendor/wfm/Router.php | Строка: 45 
+=============
+[2022-11-10 18:16:19] Текст ошибки: Controller app\controllers\MainController is not found | Файл: /app/vendor/wfm/Router.php | Строка: 45 
+=============
+[2022-11-10 18:16:19] Текст ошибки: Controller app\controllers\MainController is not found | Файл: /app/vendor/wfm/Router.php | Строка: 45 
+=============
+[2022-11-10 18:16:20] Текст ошибки: Controller app\controllers\MainController is not found | Файл: /app/vendor/wfm/Router.php | Строка: 45 
+=============
+[2022-11-10 18:16:20] Текст ошибки: Controller app\controllers\MainController is not found | Файл: /app/vendor/wfm/Router.php | Строка: 45 
+=============
+[2022-11-10 18:16:47] Текст ошибки: Controller app\controllers\MainController is not found | Файл: /app/vendor/wfm/Router.php | Строка: 45 
+=============
+[2022-11-10 18:16:47] Текст ошибки: Controller app\controllers\MainController is not found | Файл: /app/vendor/wfm/Router.php | Строка: 45 
+=============
+[2022-11-10 18:16:47] Текст ошибки: Controller app\controllers\MainController is not found | Файл: /app/vendor/wfm/Router.php | Строка: 45 
+=============
+[2022-11-10 18:16:49] Текст ошибки: Controller app\controllers\MainController is not found | Файл: /app/vendor/wfm/Router.php | Строка: 45 
+=============
+[2022-11-10 18:16:55] Текст ошибки: Method app\controllers\MainController::indexAction is not found | Файл: /app/vendor/wfm/Router.php | Строка: 40 
+=============
+[2022-11-10 18:16:55] Текст ошибки: Method app\controllers\MainController::indexAction is not found | Файл: /app/vendor/wfm/Router.php | Строка: 40 
+=============
+[2022-11-10 18:16:56] Текст ошибки: Method app\controllers\MainController::indexAction is not found | Файл: /app/vendor/wfm/Router.php | Строка: 40 
+=============
+[2022-11-10 18:18:16] Текст ошибки: Call to protected method app\controllers\MainController::indexAction() from scope wfm\Router | Файл: /app/vendor/wfm/Router.php | Строка: 36 
+=============
+[2022-11-10 18:18:16] Текст ошибки: Call to protected method app\controllers\MainController::indexAction() from scope wfm\Router | Файл: /app/vendor/wfm/Router.php | Строка: 36 
+=============
+[2022-11-10 18:18:16] Текст ошибки: Call to protected method app\controllers\MainController::indexAction() from scope wfm\Router | Файл: /app/vendor/wfm/Router.php | Строка: 36 
+=============
