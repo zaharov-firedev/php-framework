@@ -6,6 +6,6 @@ class PageController
 {
     public function viewAction()
     {
-        
+        echo "test2";
     }
 }

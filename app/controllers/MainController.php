@@ -6,6 +6,6 @@ class MainController
 {
     public function indexAction()
     {
-        echo "test";
+        // echo "test";
     }
 }
