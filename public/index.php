@@ -16,7 +16,5 @@ require_once HELPERS . '/functions.php';
 require_once CONFIG . '/routes.php';
 
 new wfm\App();
-// var_dump(wfm\Router::getRoutes());
-var_dump($_SERVER['REQUEST_URI']);
+
 ?>
-<!-- <link rel="stylesheet" href="style.css?v=2" /> -->
